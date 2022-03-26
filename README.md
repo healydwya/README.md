@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @healydwya
-- 👀 I’m interested in equitable transportation, public interest tech, UX research, human-robot interaction, and mobile app development!
-- 🌱 I’m currently a grad student at Carnegie Mellon learning about iOS development, accessible design, UX research, React, and Java. 
-- 💞️ I’m looking to collaborate on social justice / transportation + tech projects.
+- 👀 I’m a Researcher interested in equitable transportation, public interest tech, human-robot interaction, and front-end development!
+- 🌱 I’m currently a grad student at Carnegie Mellon in the Human-Computer Interaction Institute. 
 - 📫 How to reach me ... healydwyer@gmail.com
 
 <!---

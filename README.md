@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @healydwya
-- 👀 I’m a UX Researcher interested in equitable transportation, public interest tech, human-robot interaction, and front-end development!
-- 🌱 I’m currently a grad student at Carnegie Mellon in the Human-Computer Interaction Institute. Prior to that, I worked as a UX Engineer and Researcher and am passionate about applying my background as a developer to how I conduct research on technical projects.  
+- 👀 I’m a UX Researcher interested in equitable transportation, cybersecurity, public interest tech, human-robot interaction, and front-end development!
+- 🌱 I’m a proud graduate of Carnegie Mellon's Human-Computer Interaction Institute. I previously worked as a UX Engineer and Researcher and am passionate about applying my background as a developer to conduct research on highly technical products.  
 - 📫 How to reach me ... healydwyer@gmail.com
 
 <!---

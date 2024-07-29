@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @healydwya
-- 👀 I’m a UX Researcher interested in equitable transportation, cybersecurity, public interest tech, human-robot interaction, and front-end development!
-- 🌱 I’m a proud graduate of Carnegie Mellon's Human-Computer Interaction Institute. I previously worked as a UX Engineer and Researcher and am passionate about applying my background as a developer to conduct research on highly technical products.  
+- 👀 I’m a Product Manager interested in equitable transportation, cybersecurity, public interest tech, human-robot interaction, and front-end development!
+- 🌱 I’m a proud graduate of Carnegie Mellon's Human-Computer Interaction Institute. I previously worked as a UX Engineer and Researcher and am passionate about applying my background as a developer to define the scope for highly technical products.  
 - 📫 How to reach me ... healydwyer@gmail.com
 
 <!---
